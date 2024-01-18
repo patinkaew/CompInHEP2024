@@ -19,3 +19,9 @@ add your answers, files, subdirs (but not any data)
 commit
 push to your own repo
 let me know where to find your repo (sami.lehti at cern.ch)
+
+Example:
+git add README.md 
+git commit README.md -m "Updated readme"
+git remote add public ssh://git@gitlab.cern.ch:7999/${USER}/CompInHEP2024.git
+git push public
