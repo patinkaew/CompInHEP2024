@@ -10,7 +10,7 @@ https://www.tutorialspoint.com/gitlab/gitlab_fork_project.htm
 
 ## Add your files
 
-Clone the repo
+Clone your repo
 ```
 git clone https://gitlab.cern.ch/<your-gitlab-username>/CompInHEP2024
 cd CompInHEP2024/Ex1
@@ -20,6 +20,12 @@ commit
 push to your own repo
 ```
 let me know where to find your repo (sami.lehti at cern.ch)
+
+My repo is available in gitlab and github:
+```
+https://gitlab.cern.ch/slehti/CompInHEP2024
+https://github.com/slehti/CompInHEP2024
+```
 
 Example:
 ```
