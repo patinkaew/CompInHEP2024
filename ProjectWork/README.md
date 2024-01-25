@@ -3,7 +3,7 @@
 ## Project work Spring 2024
 
 ### Goal: 
-Generator level simulation of a chosen physics channel simulating CMS data taking at LHC Run3.
+Generator level simulation of a chosen physics channel simulating CMS data taking at the LHC Run3.
 
 To be returned by 24.00 on Friday 24.5.2024
 
