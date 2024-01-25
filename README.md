@@ -21,10 +21,11 @@ push to your own repo
 ```
 let me know where to find your repo (sami.lehti at cern.ch)
 
-My repo is available in gitlab and github:
+My repo is available in gitlab, github and lxplus:
 ```
 https://gitlab.cern.ch/slehti/CompInHEP2024
 https://github.com/slehti/CompInHEP2024
+https://cmsdoc.cern.ch/~slehti/CompInHEP2024.git
 ```
 
 Example:
