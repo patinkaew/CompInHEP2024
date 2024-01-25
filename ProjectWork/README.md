@@ -1,13 +1,14 @@
 # COMPUTING METHODS IN HEP
 
-(To be returned by 24.00 on Friday 24.5.2024)
+## Project work Spring 2024
+
+Goal: Generator level simulation of a chosen physics channel simulating CMS data taking at LHC Run3.
+
+To be returned by 24.00 on Friday 24.5.2024
 
 Please use your git repository to return your work. Include in your answer a written description how
 you proceed and where you argument any non-trivial choice you make.
 
-## Project work Spring 2024
-
-Goal: Generator level simulation of a chosen physics channel simulating CMS data taking at LHC Run3.
 
 ### Tools:
    * Monte Carlo simulation like Pythia
