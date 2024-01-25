@@ -1,18 +1,18 @@
-COMPUTING METHODS IN HEP
+### COMPUTING METHODS IN HEP
 
 (To be returned by 24.00 on Friday 24.5.2024)
 
-Project work Spring 2024
+### Project work Spring 2024
 
 Goal: Generator level simulation of a chosen physics channel simulating CMS data taking at LHC Run3.
 
-* Tools:
+# Tools:
    * Monte Carlo simulation like Pythia
    * Cross section calculation
    * Program and script writing
    * ROOT for data storage, plotting, fitting
 
-* Example:
+# Example:
 
 The CMS experiment was designed to be able to measure muons with a good precision. Your
 task is to study whether the Higgs boson can be detected in the LHC Run 3 with 13.6 TeV
@@ -20,13 +20,13 @@ center-of-mass energy with the discovered mass mH = 125 GeV/c2 in the H → μμ
 The main backgrounds for this channel are the γ∗ /Z (Drell-Yan) and tt̄ production. Assume
 that the collected amount of data will be ∼300 fb−1 .
 
-* Questions:
+# Questions:
 
 	* What is the expected number of events for each dataset?
 
 	* What is the trigger efficiency for the signal?
 
-* Tasks:
+# Tasks:
     * Create generator-level datasets with events passing the trigger for thr signal and major backgrounds
 
 	* Analyze your data.
@@ -39,21 +39,21 @@ that the collected amount of data will be ∼300 fb−1 .
 	
 	* Additional selections
 
-* Report the number of events passing the selection.
+# Report the number of events passing the selection.
 
-* Reconstruct the invariant mass of your physics objects. Produce a ROOT histogram of the reconstructed mass with correct
+# Reconstruct the invariant mass of your physics objects. Produce a ROOT histogram of the reconstructed mass with correct
 normalization (i.e. that each entry in the histogram corresponds to a correct amount
 of cross-section in fb). Plot two invariant mass distributions in the same figure: the
 background only, and the sum of the signal and background.
 
-* Fit the signal+background and background only mass histograms with appropriate functions over an appropriate mass range.
+# Fit the signal+background and background only mass histograms with appropriate functions over an appropriate mass range.
 
-* Choose a reasonable mass window and calculate the number of signal and background events.
+# Choose a reasonable mass window and calculate the number of signal and background events.
 
-* Estimate the statistical significance of the signal peak with the naive expression NS /√NB,
+# Estimate the statistical significance of the signal peak with the naive expression NS /√NB,
 where NS and NB are the number of signal and background events, respectively. 
 
-* If the data were real data, you’d have to present your work to the world-wide scientific
+# If the data were real data, you’d have to present your work to the world-wide scientific
 community. Reason why the scientific community should believe in your results. Can you
 convince yourself? Why/why not? How would you improve your study to make it more
 realistic?
