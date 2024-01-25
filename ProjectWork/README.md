@@ -31,12 +31,12 @@ that the collected amount of data will be ∼300 fb−1 .
 
 * What is the trigger efficiency for the signal?
 
+* The number of events passing the selection.
+
 * If the data were real data, you’d have to present your work to the world-wide scientific
 community. Reason why the scientific community should believe in your results. Can you
 convince yourself? Why/why not? How would you improve your study to make it more
 realistic?
-
-* The number of events passing the selection.
 
 ### Tasks:
 * Create generator-level datasets with events passing the trigger for thr signal and major backgrounds
