@@ -26,6 +26,13 @@ that the collected amount of data will be ∼300 fb−1 .
 
 * What is the trigger efficiency for the signal?
 
+* If the data were real data, you’d have to present your work to the world-wide scientific
+community. Reason why the scientific community should believe in your results. Can you
+convince yourself? Why/why not? How would you improve your study to make it more
+realistic?
+
+* The number of events passing the selection.
+
 # Tasks:
 * Create generator-level datasets with events passing the trigger for thr signal and major backgrounds
 
@@ -53,10 +60,7 @@ background only, and the sum of the signal and background.
 * Estimate the statistical significance of the signal peak with the naive expression NS /√NB,
 where NS and NB are the number of signal and background events, respectively. 
 
-* If the data were real data, you’d have to present your work to the world-wide scientific
-community. Reason why the scientific community should believe in your results. Can you
-convince yourself? Why/why not? How would you improve your study to make it more
-realistic?
+
 
 
 
