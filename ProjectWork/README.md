@@ -1,18 +1,18 @@
-### COMPUTING METHODS IN HEP
+# COMPUTING METHODS IN HEP
 
 (To be returned by 24.00 on Friday 24.5.2024)
 
-### Project work Spring 2024
+## Project work Spring 2024
 
 Goal: Generator level simulation of a chosen physics channel simulating CMS data taking at LHC Run3.
 
-# Tools:
+### Tools:
    * Monte Carlo simulation like Pythia
    * Cross section calculation
    * Program and script writing
    * ROOT for data storage, plotting, fitting
 
-# Example:
+### Example:
 
 The CMS experiment was designed to be able to measure muons with a good precision. Your
 task is to study whether the Higgs boson can be detected in the LHC Run 3 with 13.6 TeV
@@ -20,7 +20,7 @@ center-of-mass energy with the discovered mass mH = 125 GeV/c2 in the H → μμ
 The main backgrounds for this channel are the γ∗ /Z (Drell-Yan) and tt̄ production. Assume
 that the collected amount of data will be ∼300 fb−1 .
 
-# Questions:
+### Questions:
 
 * What is the expected number of events for each dataset?
 
@@ -33,7 +33,7 @@ realistic?
 
 * The number of events passing the selection.
 
-# Tasks:
+### Tasks:
 * Create generator-level datasets with events passing the trigger for thr signal and major backgrounds
 
 * Analyze your data.
