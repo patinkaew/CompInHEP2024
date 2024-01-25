@@ -25,7 +25,9 @@ Example:
 ```
 git add README.md 
 git commit README.md -m "Updated readme"
-git remote add public ssh://git@gitlab.cern.ch:7999/<your-gitlab-username>/CompInHEP2024.git
+git remote add public ssh://git@gitlab.cern.ch:7999/<your-gitlab-username>/CompInHEP2024.git 
+or
+git remote add public git@github.com:<your-gitlab-username>/CompInHEP2024.git
 git push public
 ```
 Some git instructions:
