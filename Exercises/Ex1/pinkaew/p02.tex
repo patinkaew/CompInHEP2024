@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage{feynmf}
+\usepackage{subcaption}
+
+\begin{document}
+\begin{figure}[h]
+\centering
+    \begin{subfigure}{.5\textwidth}
+    \centering
+    \begin{fmffile}{left_ee_yy}
+        \begin{fmfgraph*}(100, 80)
+            \fmfleft{i1,i2}
+            \fmfright{o1,o2}
+            \fmf{fermion}{i1,v1,v2,i2}
+            \fmf{photon,tension=0.5}{v1,o1}
+            \fmf{photon,tension=1}{v2,o2}
+            \fmflabel{$e^-$}{i1}
+            \fmflabel{$e^+$}{i2}
+            \fmflabel{$\gamma$}{o1}
+            \fmflabel{$\gamma$}{o2}
+        \end{fmfgraph*}
+    \end{fmffile}
+    \end{subfigure}%
+    \begin{subfigure}{.5\textwidth}
+    \centering
+    \begin{fmffile}{right_ee_yy}
+        \begin{fmfgraph*}(100, 80)
+            \fmfleft{i1,i2}
+            \fmfright{o1,o2}
+            \fmf{fermion}{i1,v1,v2,i2}
+            \fmf{photon,tension=1}{v1,o1}
+            \fmf{photon,tension=0.5}{v2,o2}
+            \fmflabel{$e^-$}{i1}
+            \fmflabel{$e^+$}{i2}
+            \fmflabel{$\gamma$}{o1}
+            \fmflabel{$\gamma$}{o2}
+        \end{fmfgraph*}
+    \end{fmffile}
+    \end{subfigure}
+    \vspace{5mm}
+    \caption{Feynman graphs for the lowest order contributions to electron-positron annihilation \cite{ppbook}.}
+\end{figure}
+
+\bibliographystyle{lesHouches}
+\bibliography{references}
+
+\end{document}

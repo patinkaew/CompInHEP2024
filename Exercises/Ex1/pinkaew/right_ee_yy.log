@@ -1,0 +1,16 @@
+This is METAFONT, Version 2.71828182 (preloaded base=mf 2024.1.26)  30 JAN 2024 11:54
+**right_ee_yy.mf
+(right_ee_yy.mf (/usr/local/texlive/2023/texmf-dist/metafont/feynmf/feynmf.mf)
+feynmf: 1
+:1:\fmfL(5.75797,-4.24265,rt){$e^-$}%
+:1:\fmfL(5.75797,84.24265,rb){$e^+$}%
+:1:\fmfL(94.24203,-4.24265,lt){$\gamma $}%
+:1:\fmfL(94.24203,84.24265,lb){$\gamma $}% [1] ) 
+Here is how much of METAFONT's memory you used:
+ 627 strings out of 5263
+ 7352 string characters out of 69759
+ 63649 words of memory out of 5000000
+ 1385 symbolic tokens out of 9500
+ 14i,67n,4r,28p,108b stack positions out of 300i,300n,1000r,150p,200000b
+
+Output written on right_ee_yy.2602gf (1 character, 24556 bytes).

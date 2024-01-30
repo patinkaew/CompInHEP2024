@@ -1,0 +1,7 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{ppbook}
+B.~Martin and G.~Shaw,, {\em Particle Physics}.
+\newblock John Wiley \& Sons, 1992.
+
+\end{thebibliography}\endgroup

@@ -1,0 +1,137 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.26)  30 JAN 2024 11:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**p02.tex
+(./p02.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/feynmf/feynmf.sty
+Package: feynmf 1996/12/02 v1.08 LaTeX/Metafont Feynman Diagram Package (ohl)
+\@outfmf=\write3
+\fmfbuf@=\toks16
+\c@fmfgraph=\count193
+\grep@infile=\read2
+\grep@outfile=\write4
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\caption@tempdima=\dimen141
+\captionmargin=\dimen142
+\caption@leftmargin=\dimen143
+\caption@rightmargin=\dimen144
+\caption@width=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count194
+\c@continuedfloat=\count195
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count196
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count197
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box51
+)
+(./p02.aux)
+\openout1 = `p02.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+
+feynmf: File left_ee_yy.tfm found.
+feynmf: Nevertheless, if the picture has changed, reprocess left_ee_yy.mf.
+feynmf: If dimension have changed, reprocess left_ee_yy.mf and p02.tex.
+\openout3 = `left_ee_yy.mf'.
+
+\openout4 = `left_ee_yy.t1'.
+
+(./left_ee_yy.t1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+
+feynmf: File right_ee_yy.tfm found.
+feynmf: Nevertheless, if the picture has changed, reprocess right_ee_yy.mf.
+feynmf: If dimension have changed, reprocess right_ee_yy.mf and p02.tex.
+\openout3 = `right_ee_yy.mf'.
+
+\openout4 = `right_ee_yy.t1'.
+
+(./right_ee_yy.t1) (./p02.bbl) [1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./p02.
+aux) ) 
+Here is how much of TeX's memory you used:
+ 2147 strings out of 476025
+ 39909 string characters out of 5790017
+ 1852388 words of memory out of 5000000
+ 22650 multiletter control sequences out of 15000+600000
+ 513266 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,9n,77p,278b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <./right_ee_yy.600pk> <./left_ee_yy.600pk></usr/local/texlive/2023/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on p02.pdf (1 page, 69253 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
