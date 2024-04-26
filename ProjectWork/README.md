@@ -26,7 +26,7 @@ The main backgrounds for this channel are the γ∗ /Z (Drell-Yan) and tt̄ prod
 that the collected amount of data will be ∼300 fb−1 .
 
 The events are triggered with a HLT\_DoubleIsoMu20\_eta2p1 trigger with symmetric thresholds:
-|\eta|<2.1 and {\rm p}_{\rm T}>20 GeV/c for both muons. Ignore the isolation (Iso) at this point.
+|eta|<2.1 and p_T>20 GeV/c for both muons. Ignore the isolation (Iso) at this point.
 	
 ### Questions:
 
