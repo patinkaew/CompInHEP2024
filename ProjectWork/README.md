@@ -25,6 +25,9 @@ center-of-mass energy with the discovered mass mH = 125 GeV/c2 in the H → μμ
 The main backgrounds for this channel are the γ∗ /Z (Drell-Yan) and tt̄ production. Assume
 that the collected amount of data will be ∼300 fb−1 .
 
+The events are triggered with a HLT\_DoubleIsoMu20\_eta2p1 trigger with symmetric thresholds:
+|eta|<2.1 and p_T>20 GeV/c for both muons. Ignore the isolation (Iso) at this point.
+	
 ### Questions:
 
 * What is the expected number of events for each dataset?
